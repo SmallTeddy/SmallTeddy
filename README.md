@@ -16,9 +16,7 @@
 
 <br />
 
-Hi, I'm SmallTeddy, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm SmallTeddy, I have been learning front-end for three years. I am currently engaged in the web-side background management system developed with Vue. I like open source projects very much and love reading books. I am learning the relevant knowledge of algorithms. I am reading the book "Introduction to Algorithms" and taking notes with gitbook. I will visit major blogs and post some articles myself.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
