@@ -26,14 +26,11 @@ Hi, I'm SmallTeddy, I have been learning front-end for three years. I am current
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
+Html         3 hrs 32 mins
+Css          2 hrs 11 mins
 JavaScript   5 hrs 53 mins
 TypeScript   2 hrs 2 mins
+Vue          4 hrs 7 mins
 JSON         44 mins   
 ```
-<!--END_SECTION:waka-->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlgorithmsNote" alt="AlgorithmsNote" />
 
