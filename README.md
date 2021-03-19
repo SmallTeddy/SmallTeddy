@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm SmallTeddy, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -45,8 +45,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```text
 JavaScript   5 hrs 53 mins   █████████████░░░░░░░░░░░░   51.82 % 
 TypeScript   2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Python       59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-C++          50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 <!--END_SECTION:waka-->
