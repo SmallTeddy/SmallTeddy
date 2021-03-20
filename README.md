@@ -8,7 +8,7 @@ Hi, I'm SmallTeddy, I have been learning front-end for three years. I am current
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: wb: WnptLTEyMDM= (base64);
+- 📫 How to reach me: wx: WnptLTEyMDM= (base64);
 
 **Languages and Tools:**  
 
