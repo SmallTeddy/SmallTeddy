@@ -2,7 +2,7 @@
 
 <br />
 
-Hello, I'm SmallTeddy. I have been learning front-end development for five years. I am currently working on a web-based background management system developed with Vue.js. I'm a big fan of open source projects and enjoy reading books. I'm learning relevant knowledge about algorithms, reading the book "Introduction to Algorithms", and taking notes on GitBook. I also visit major tech blogs regularly and write articles myself.
+Hello, I'm SmallTeddy. I have been honing my skills in front-end development for the past five years. At present, I am engrossed in crafting a Vue.js powered web-based background management system. My passion lies in open source projects and I derive immense pleasure from delving into books. Currently, I am immersing myself in the realm of algorithms by studying "Introduction to Algorithms" and meticulously documenting my insights on GitBook. Additionally, I regularly frequent prominent tech blogs and actively contribute my own articles.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
