@@ -17,18 +17,14 @@ Hello, I'm SmallTeddy. I have been honing my skills in front-end development for
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **This Day I Spent My Time On:**
 
 <!--START_SECTION:waka-->
 
 ```text
- JavaScript - 3h 50m (45.12%)
- HTML - 1h 52m (21.96%)
- TypeScript - 1h 47m (21.03%)
- JSON - 22m (4.35%)
- Other - 17m (3.44%)
- Markdown - 9m (1.88%)
- Less - 7m (1.45%)
- Git Config - 3m (0.70%)
- XML - 0m (0.07%)
+HTML        - 1:52
+TypeScript  - 1:46
+Other       - 0:17
+Less        - 0:07
+Markdown    - 0:04
 ```
