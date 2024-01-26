@@ -6,9 +6,9 @@ I have been honing my skills in front-end development for the past five years. A
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/github-snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/github-snake/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/github-snake/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/github-contribution-grid-snake.svg">
 </picture>
   
 - 💬 Ask me about anything, I am happy to help;
