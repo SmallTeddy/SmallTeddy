@@ -36,7 +36,7 @@ I have been honing my skills in front-end development for the past five years. A
 
 <!-- profile-3d-contrib 3D贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/generate-github-profile-3d-contrib-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/generate-github-profile-3d-contrib.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/generate-github-profile-3d-contrib.svg">
 </picture>
