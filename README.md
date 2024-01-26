@@ -37,3 +37,6 @@
     <td><img src="https://wakatime.com/share/@SmallTeddy/a303c8f1-97eb-41de-b737-99c08c07b554.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
+
+<!-- GitHub Card -->
+![github](./imgs/github_background.jpeg)
