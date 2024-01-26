@@ -6,8 +6,6 @@
 <!-- Introduce -->
 &nbsp;&nbsp;&nbsp;&nbsp;I have been honing my skills in front-end development for the past five years. At present, I am engrossed in crafting a Vue.js powered web-based background management system. My passion lies in open source projects and I derive immense pleasure from delving into books. Currently, I am immersing myself in the realm of algorithms by studying "Introduction to Algorithms" and meticulously documenting my insights on GitBook. Additionally, I regularly frequent prominent tech blogs and actively contribute my own articles.
 
-<br />
-
 <!-- Languages and Tools -->
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,windicss,js,regex,jquery,ts,nodejs,angular,vue,nuxtjs,vite,vitest,electron,swift,svelte,cpp,python,golang,rust,lua,docker,git,gitlab,jenkins,mysql,linux,vim,neovim,md,bash,vscode,postman,ps,ai,pr,ae,au,discord,gcp,gmail,github,githubactions" /><br>
@@ -18,6 +16,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br />
+
+<!-- Contribution Graph -->
+<a href="https://github.com/SmallTeddy"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SmallTeddy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!-- GitHub Stats Card And Top Languages Card -->
 <table>
