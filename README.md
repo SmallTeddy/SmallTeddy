@@ -22,8 +22,8 @@ I have been honing my skills in front-end development for the past five years. A
 <!-- Top Languages Card -->
 <table>
   <tr>
-    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SmallTeddy" /></td>
-    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SmallTeddy&layout=compact&langs_count=8&card_width=320" /></td>
+    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SmallTeddy&theme=transparent" /></td>
+    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SmallTeddy&layout=compact&langs_count=8&card_width=320&theme=transparent" /></td>
   </tr>
 </table>
 
