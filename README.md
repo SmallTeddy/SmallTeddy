@@ -61,15 +61,15 @@
 <br />
 
 <!-- WakaTime Stats Card -->
-<div style="width: 100%; display: flex; gap: 8px;">
+<div style="width: 100%; display: flex; gap: 8px; justify-content: space-between">
     <img
         alt="Wakatime"
-        style="flex: 1;width: 500px;"
+        style="flex: 1; width: 48px;"
         src="https://wakatime.com/share/@SmallTeddy/f1a7cc44-94b3-4309-ba8a-c2ea8ceaf208.svg"
     />
     <img
         alt="Wakatime"
-        style="flex: 1;width: 500px;"
+        style="flex: 1; width: 48px;"
         src="https://wakatime.com/share/@SmallTeddy/a303c8f1-97eb-41de-b737-99c08c07b554.svg"
     />
 </div>
