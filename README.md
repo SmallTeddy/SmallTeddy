@@ -81,5 +81,3 @@
         src="./imgs/github_background.jpeg"
     />
 </div>
-
-<br />
