@@ -34,6 +34,7 @@
 <div>
     <img
         alt="DenverCoder1's Activity Graph"
+        style="border-radius: 5px; border: 1px solid #fff;"
         src="https://github-readme-activity-graph.vercel.app/graph/?username=SmallTeddy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
     />
 </div>
@@ -44,16 +45,12 @@
 <div style="width: 100%; display: flex; gap: 8px;">
     <img
         alt="GitHub Stats Card"
-        style="flex:1;"
-        height=200
-        align="center"
+         style="flex:1; height: 200px; text-align: center"
         src="https://github-readme-stats.vercel.app/api?username=SmallTeddy&theme=transparent"
     />
     <img
         alt="Top Languages Card"
-        style="flex:1;"
-        height=200
-        align="center"
+        style="flex:1; height: 200px; text-align: center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=SmallTeddy&layout=compact&langs_count=8&card_width=320&theme=transparent"
     />
 </div>
@@ -64,12 +61,12 @@
 <div>
     <img
         alt="Coding Activity Wakatime"
-        style="width: 410px; border-radius: 5px ;border: 1px solid #fff;"
+        style="width: 410px; border-radius: 5px; border: 1px solid #fff;"
         src="https://wakatime.com/share/@SmallTeddy/53e3079c-3aca-443e-b3a0-8a8c52104813.svg"
     />
     <img
         alt="Languages Wakatime"
-        style="width: 410px; border-radius: 5px ;border: 1px solid #fff;"
+        style="width: 410px; border-radius: 5px; border: 1px solid #fff;"
         src="https://wakatime.com/share/@SmallTeddy/74edd7ea-c438-465f-b7fd-a8aba5e15ea9.svg"
     />
 </div>
@@ -80,6 +77,7 @@
 <div style="width: 100%;">
     <img
         alt="github"
+        style="border-radius: 5px;"
         src="./imgs/github_background.jpeg"
     />
 </div>
