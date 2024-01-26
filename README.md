@@ -64,12 +64,12 @@
 <div>
     <img
         alt="Wakatime"
-         width="500"
+         width="410"
         src="https://wakatime.com/share/@SmallTeddy/f1a7cc44-94b3-4309-ba8a-c2ea8ceaf208.svg"
     />
     <img
         alt="Wakatime"
-         width="500"
+         width="410"
         src="https://wakatime.com/share/@SmallTeddy/a303c8f1-97eb-41de-b737-99c08c07b554.svg"
     />
 </div>
