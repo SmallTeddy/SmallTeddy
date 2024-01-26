@@ -63,13 +63,13 @@
 <!-- WakaTime Stats Card -->
 <div>
     <img
-        alt="Wakatime"
-         width="410"
+        alt="Coding Activity Wakatime"
+        style="width: 410px; border-radius: 5px ;border: 1px solid #fff;"
         src="https://wakatime.com/share/@SmallTeddy/53e3079c-3aca-443e-b3a0-8a8c52104813.svg"
     />
     <img
-        alt="Wakatime"
-         width="410"
+        alt="Languages Wakatime"
+        style="width: 410px; border-radius: 5px ;border: 1px solid #fff;"
         src="https://wakatime.com/share/@SmallTeddy/74edd7ea-c438-465f-b7fd-a8aba5e15ea9.svg"
     />
 </div>
