@@ -65,12 +65,12 @@
     <img
         alt="Wakatime"
          width="410"
-        src="https://wakatime.com/share/@SmallTeddy/f1a7cc44-94b3-4309-ba8a-c2ea8ceaf208.svg"
+        src="https://wakatime.com/share/@SmallTeddy/53e3079c-3aca-443e-b3a0-8a8c52104813.svg"
     />
     <img
         alt="Wakatime"
          width="410"
-        src="https://wakatime.com/share/@SmallTeddy/a303c8f1-97eb-41de-b737-99c08c07b554.svg"
+        src="https://wakatime.com/share/@SmallTeddy/74edd7ea-c438-465f-b7fd-a8aba5e15ea9.svg"
     />
 </div>
 
