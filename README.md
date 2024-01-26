@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, I'm SmallTeddy.&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, I'm SmallTeddy.">
 </h1>
 
 I have been honing my skills in front-end development for the past five years. At present, I am engrossed in crafting a Vue.js powered web-based background management system. My passion lies in open source projects and I derive immense pleasure from delving into books. Currently, I am immersing myself in the realm of algorithms by studying "Introduction to Algorithms" and meticulously documenting my insights on GitBook. Additionally, I regularly frequent prominent tech blogs and actively contribute my own articles.
