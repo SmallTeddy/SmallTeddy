@@ -33,10 +33,3 @@ I have been honing my skills in front-end development for the past five years. A
     <td><img src="https://wakatime.com/share/@SmallTeddy/a303c8f1-97eb-41de-b737-99c08c07b554.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
-
-<!-- profile-3d-contrib 3D贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/generate-github-profile-3d-contrib-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/generate-github-profile-3d-contrib.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/generate-github-profile-3d-contrib.svg">
-</picture>
