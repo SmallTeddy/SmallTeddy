@@ -1,14 +1,18 @@
 <!-- Readme Typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I'm+SmallTeddy." />
-</h1>
+<p style="text-align: center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hello+I'm+SmallTeddy.I'm+glad+I+met+you+here!" />
+</p>
 
 <!-- Introduce -->
+<p>
 &nbsp;&nbsp;&nbsp;&nbsp;I have been honing my skills in front-end development for the past five years. At present, I am engrossed in crafting a Vue.js powered web-based background management system. My passion lies in open source projects and I derive immense pleasure from delving into books. Currently, I am immersing myself in the realm of algorithms by studying "Introduction to Algorithms" and meticulously documenting my insights on GitBook. Additionally, I regularly frequent prominent tech blogs and actively contribute my own articles.
+</p>
+
+<br>
 
 <!-- Languages and Tools -->
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,windicss,js,regex,jquery,ts,nodejs,angular,vue,nuxtjs,vite,vitest,electron,swift,svelte,cpp,python,golang,rust,lua,docker,git,gitlab,jenkins,mysql,linux,vim,neovim,md,bash,vscode,postman,ps,ai,pr,ae,au,discord,gcp,gmail,github,githubactions" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,windicss,js,regex,jquery,ts,nodejs,angular,vue,nuxtjs,vite,vitest,electron,swift,svelte,cpp,python,golang,rust,lua,docker,git,gitlab,jenkins,mysql,linux,vim,neovim,md,bash,vscode,postman,ps,ai,pr,ae,au,discord,gcp,gmail,github,githubactions" />
 
 <!-- Snake Code Contribution Map -->
 <picture>
