@@ -57,6 +57,10 @@
 
 <br />
 
+<!--START_SECTION:waka-->
+
+<!--End_SECTION:waka-->
+
 <!-- WakaTime Stats Card -->
 <div>
     <img
