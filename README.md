@@ -78,12 +78,12 @@ Less                     2 hrs 1 min         ██░░░░░░░░░�
     <img
         alt="Coding Activity Wakatime"
         style="width: 410px; border-radius: 5px; border: 1px solid #fff;"
-        src="https://wakatime.com/share/@SmallTeddy/53e3079c-3aca-443e-b3a0-8a8c52104813.svg"
+        src="https://wakatime.com/share/@SmallTeddy/78da0d78-a12a-48c8-ad5d-a58b8b93d8a1.svg"
     />
     <img
         alt="Languages Wakatime"
         style="width: 410px; border-radius: 5px; border: 1px solid #fff;"
-        src="https://wakatime.com/share/@SmallTeddy/74edd7ea-c438-465f-b7fd-a8aba5e15ea9.svg"
+        src="https://wakatime.com/share/@SmallTeddy/fc3dd2c8-e547-42e2-aa39-4c27495530d7.svg"
     />
 </div>
 
