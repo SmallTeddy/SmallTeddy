@@ -21,6 +21,22 @@
     />
 </div>
 
+<!-- WakaTime Stats Card -->
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On**
+
+```text
+💬 Programming Languages: 
+TypeScript               6 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+HTML                     4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Markdown                 4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Vue.js                   2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Less                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+```
+
+
+<!--END_SECTION:waka-->
+
 <!-- Snake Code Contribution Map -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/github-contribution-grid-snake-dark.svg">
@@ -56,22 +72,6 @@
 </div>
 
 <br />
-
-<!-- WakaTime Stats Card -->
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               6 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-HTML                     4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Markdown                 4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Vue.js                   2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Less                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-```
-
-
-<!--END_SECTION:waka-->
 
 <!-- WakaTime Stats Card -->
 <div>
