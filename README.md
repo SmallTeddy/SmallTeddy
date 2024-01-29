@@ -21,6 +21,8 @@
     />
 </div>
 
+<br />
+
 <!-- WakaTime Stats Card -->
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On**
