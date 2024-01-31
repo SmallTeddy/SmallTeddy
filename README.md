@@ -39,11 +39,11 @@
      <summary><h2>🔭 My Code Time This Week</h2></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 173 Contributions in the Year 2024
+> 🏆 171 Contributions in the Year 2024
  > 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
