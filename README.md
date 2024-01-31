@@ -11,81 +11,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I have been honing my skills in front-end development for the past five years. At present, I am engrossed in crafting a Vue.js powered web-based background management system. My passion lies in open source projects and I derive immense pleasure from delving into books. Currently, I am immersing myself in the realm of algorithms by studying "Introduction to Algorithms" and meticulously documenting my insights on GitBook. Additionally, I regularly frequent prominent tech blogs and actively contribute my own articles.
 </p>
 
-<!-- WakaTime Stats Card -->
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2053%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 171 Contributions in the Year 2024
- > 
-> 📦 1.4 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    76 commits     █████░░░░░░░░░░░░░░░░░░░░   23.24% 
-🌆 Daytime    172 commits    █████████████░░░░░░░░░░░░   52.6% 
-🌃 Evening    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-🌙 Night      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-Tuesday      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-Wednesday    71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.71% 
-Thursday     48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Friday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-Saturday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
-Sunday       11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.92% 
-Markdown                 5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97% 
-TypeScript               4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99% 
-Vue.js                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
-Less                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.72%
-
-🔥 Editors: 
-WebStorm                 15 hrs 12 mins      █████████████████░░░░░░░░   70.21% 
-VS Code                  4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   22.08% 
-PyCharm                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.71%
-
-💻 Operating System: 
-Mac                      21 hrs 31 mins      ████████████████████████░   99.37% 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Vue                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
- Last Updated on 31/01/2024
-<!--END_SECTION:waka-->
-
 <!-- Snake Code Contribution Map -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/github-contribution-grid-snake-dark.svg">
@@ -108,6 +33,84 @@ HTML                     1 repo              █░░░░░░░░░░�
   </p>
 
 <a href="https://github.com/SmallTeddy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+<details open>
+     <summary><h2>🔭 My Code Time This Week</h2></summary>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2053%20mins-blue)
+
+**🐱 My GitHub Data**
+
+> 🏆 171 Contributions in the Year 2024
+>
+> 📦 1.4 MB Used in GitHub's Storage
+>
+> 🚫 Not Opted to Hire
+>
+> 📜 15 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+**I'm an Early 🐤**
+
+```text
+🌞 Morning    76 commits     █████░░░░░░░░░░░░░░░░░░░░   23.24% 
+🌆 Daytime    172 commits    █████████████░░░░░░░░░░░░   52.6% 
+🌃 Evening    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
+🌙 Night      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84%
+
+```
+📅 **I'm Most Productive on Friday**
+
+```text
+Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Tuesday      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
+Wednesday    71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.71% 
+Thursday     48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
+Friday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.63% 
+Saturday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
+Sunday       11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
+
+```
+
+
+📊 **This Week I Spent My Time On**
+
+```text
+💬 Programming Languages: 
+HTML                     6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.92% 
+Markdown                 5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97% 
+TypeScript               4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99% 
+Vue.js                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
+Less                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.72%
+
+🔥 Editors: 
+WebStorm                 15 hrs 12 mins      █████████████████░░░░░░░░   70.21% 
+VS Code                  4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   22.08% 
+PyCharm                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.71%
+
+💻 Operating System: 
+Mac                      21 hrs 31 mins      ████████████████████████░   99.37% 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Vue                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+
+Last Updated on 31/01/2024
+<!--END_SECTION:waka-->
 </details>
 
 <details open> 
