@@ -6,7 +6,7 @@
     />
 </p>
 
-<!-- Introduce -->
+<!-- Introduction -->
 <p style="font-size: 14px;font-family: monospace;">
 &nbsp;&nbsp;&nbsp;&nbsp;I have been honing my skills in front-end development for the past five years. At present, I am engrossed in crafting a Vue.js powered web-based background management system. My passion lies in open source projects and I derive immense pleasure from delving into books. Currently, I am immersing myself in the realm of algorithms by studying "Introduction to Algorithms" and meticulously documenting my insights on GitBook. Additionally, I regularly frequent prominent tech blogs and actively contribute my own articles.
 </p>
@@ -18,6 +18,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmallTeddy/SmallTeddy/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- My Top Open Source Projects -->
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -35,6 +36,7 @@
 <a href="https://github.com/SmallTeddy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+<!-- My Code Time This Week -->
 <details open>
      <summary><h2>🔭 My Code Time This Week</h2></summary>
 
@@ -113,6 +115,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
+<!-- Stats and Activity -->
 <details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
@@ -132,6 +135,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SmallTeddy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SmallTeddy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
+<!-- My Favorite Tools -->
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -154,6 +158,7 @@ HTML                     1 repo              █░░░░░░░░░░�
   </p>
 </details>
 
+<!-- Holopin Badges -->
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
