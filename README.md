@@ -90,7 +90,11 @@ Less                     1 hr 1 min          █░░░░░░░░░░�
   </p>
 </details>
 
-<br />
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@SmallTeddy"><img src="https://holopin.me/@SmallTeddy" alt="@SmallTeddy&#39;s Holopin board"></a></p>
+</details>
 
 <!-- GitHub Card -->
 <p  align="center">
