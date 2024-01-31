@@ -37,9 +37,9 @@
 <a href="https://github.com/SmallTeddy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<!-- My Code Time This Week -->
+<!-- My Code Time -->
 <details open>
-     <summary><h2>🔭 My Code Time This Week</h2></summary>
+     <summary><h2>🔭 My Code Time</h2></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2031%20mins-blue)
