@@ -140,7 +140,7 @@ Last Updated on 31/01/2024
   <p>
     <img
         alt="Programming Tool Icon"
-        src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,windicss,js,regex,jquery,ts,nodejs,angular,vue,nuxtjs,vite,vitest,electron,swift,svelte,cpp,python,golang,rust,lua,docker,git,gitlab,jenkins,mysql,linux,vim,neovim,md"
+        src="https://skillicons.dev/icons?i=html,css,sass,windicss,js,regex,ts,nodejs,angular,vue,nuxtjs,vite,vitest,electron,swift,svelte,cpp,python,golang,rust,lua,docker,git,gitlab,jenkins,mysql,linux,vim,neovim,md"
     />
   </p>
 
