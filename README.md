@@ -8,7 +8,7 @@
 
 <!-- Introduction -->
 <p style="font-size: 14px;font-family: monospace;">
-&nbsp;&nbsp;&nbsp;&nbsp;I am a front-end developer and a front-end developer who loves the vue framework. I've been honing my front-end development skills for the past five years. Currently, I am starting to learn the source code of vue and related ecological tools. I'm passionate about open source projects and get tremendous pleasure from poring over books. Currently, I am writing some interesting and fun front-end games. In addition, I often visit famous technology blogs and actively contribute my own articles. The number of visits to my personal blog has exceeded one million. If you encounter some front-end problems, you are welcome to discuss them with me and make progress together.
+&nbsp;&nbsp;&nbsp;&nbsp;As a front-end developer deeply passionate about the Vue framework, I have dedicated the past five years to refining my skills in this domain. Currently, I am immersed in delving into the source code of Vue and its associated ecosystem. My enthusiasm for open source projects is boundless, and I derive immense satisfaction from immersing myself in literature. At present, I am engrossed in the development of captivating and enjoyable front-end games. Furthermore, I avidly frequent renowned technology blogs and actively contribute my own insightful articles. The traffic to my personal blog has surpassed one million visits. If you encounter any front-end challenges, I welcome the opportunity to engage in collaborative discussions to facilitate mutual progress.
 </p>
 
 <!-- Snake Code Contribution Map -->
