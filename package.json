@@ -1,0 +1,34 @@
+{
+  "name": "smallteddy",
+  "version": "1.0.0",
+  "description": "SmallTeddy Introduction",
+  "main": "index.js",
+  "scripts": {
+    "pull": "git pull origin main",
+    "add": "git add .",
+    "commit": "cz",
+    "push": "git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmallTeddy/SmallTeddy.git"
+  },
+  "keywords": [
+    "SmallTeddy"
+  ],
+  "author": "SmallTeddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmallTeddy/SmallTeddy/issues"
+  },
+  "homepage": "https://github.com/SmallTeddy/SmallTeddy#readme",
+  "dependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
