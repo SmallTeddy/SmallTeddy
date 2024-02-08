@@ -175,6 +175,13 @@ Vue                      4 repos             ███████░░░░�
   </p>
 </details>
 
+<!-- GitHub Trophies -->
+<details open> 
+  <summary><h2>🏆 GitHub Trophies</h2></summary>
+
+  <p><a href="https://github.com/SmallTeddy"><img src="https://github-profile-trophy.vercel.app/?username=SmallTeddy&theme=discord&no-frame=true&no-bg=false&margin-w=4"></a></p>
+</details>
+
 <!-- Holopin Badges -->
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
