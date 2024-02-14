@@ -189,8 +189,5 @@ Vue                      4 repos             █████░░░░░░�
 
 <!-- GitHub Card -->
 <p>
-    <img
-        alt="github"
-        src="./imgs/github_background.jpeg"
-    />
+    <img alt="github" src="./imgs/github_background.jpeg" />
 </p>
