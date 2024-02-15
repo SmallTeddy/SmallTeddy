@@ -14,9 +14,9 @@ My enthusiasm for open source projects is boundless, and I derive immense satisf
 
 At present, I am engrossed in the development of captivating and enjoyable front-end games. 
 
-Furthermore, I avidly frequent renowned technology blogs and actively contribute my own insightful articles. 
+Furthermore, I avidly frequent renowned technology blogs and actively contribute my own insightful articles.
 
-The traffic to my personal blog has surpassed one million visits. 
+The traffic to my personal blog has surpassed one million visits.
 
 If you encounter any front-end challenges, I welcome the opportunity to engage in collaborative discussions to facilitate mutual progress.
 </p>
