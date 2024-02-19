@@ -16,7 +16,7 @@ At present, I am engrossed in the development of captivating and enjoyable front
 
 Furthermore, I avidly frequent renowned technology blogs and actively contribute my own insightful articles.
 
-The traffic to my personal blog has surpassed one million visits.
+The traffic to my personal blog has surpassed one million reading quantity.
 
 If you encounter any front-end challenges, I welcome the opportunity to engage in collaborative discussions to facilitate mutual progress.
 </p>
