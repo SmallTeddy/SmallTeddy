@@ -10,15 +10,17 @@
 <p style="font-size: 14px;font-family: monospace;">
 As a front-end developer deeply passionate about the Vue framework, I have dedicated the past five years to refining my skills in this domain. Currently, I am immersed in delving into the source code of Vue and its associated ecosystem.
 
-My enthusiasm for open source projects is boundless, and I derive immense satisfaction from immersing myself in literature. 
+My enthusiasm for open source projects is boundless, and I derive immense satisfaction from immersing myself in
+literature.
 
-At present, I am engrossed in the development of captivating and enjoyable front-end games. 
+At present, I am engrossed in the development of captivating and enjoyable front-end games.
 
 Furthermore, I avidly frequent renowned technology blogs and actively contribute my own insightful articles.
 
 The traffic to my personal blog has surpassed one million reading quantity.
 
-If you encounter any front-end challenges, I welcome the opportunity to engage in collaborative discussions to facilitate mutual progress.
+If you encounter any front-end challenges, I welcome the opportunity to engage in collaborative discussions to
+facilitate mutual progress.
 </p>
 
 <!-- Snake Code Contribution Map -->
@@ -32,19 +34,32 @@ If you encounter any front-end challenges, I welcome the opportunity to engage i
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <p align="left">
+<h3>Games Ecosystem</h3>
+<p>
     <a href="https://github.com/SmallTeddy/e-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=e-card&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/SmallTeddy/tarot-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=tarot-card&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-     <a href="https://github.com/SmallTeddy/trade-war"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=trade-war&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddy/trade-war"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=trade-war&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddy/game-develop-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=game-develop-template&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddy/poker-game-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=poker-game-template&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/qingjiuge/gobang-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qingjiuge&repo=gobang-game&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
+<h3>Tools Ecosystem</h3>
+<p>
+    <a href="https://github.com/SmallTeddyTools/encryption"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=encryption&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddyTools/copy-js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=copy-js&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddyTools/file-preview-js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=file-preview-js&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
+<h3>Personal Ecosystem</h3>
+<p>
     <a href="https://github.com/SmallTeddy/ProjectConstructionBlog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=ProjectConstructionBlog&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddy/ProjectConstructionHub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=ProjectConstructionHub&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/SmallTeddyTools/encryption"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=encryption&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/SmallTeddy/music-explorer-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=music-explorer-web&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddy/Electron-Vite-Vue3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=Electron-Vite-Vue3&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddy/music-explorer-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=music-explorer-web&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddy/dual-colored-ball"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=dual-colored-ball&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/wh131462/leetcode-practice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=leetcode-practice&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 [//]: # (    <a href="https://github.com/SmallTeddyTools/copyjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=copyjs&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
-  </p>
+</p>
 
 <a href="https://github.com/SmallTeddy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
@@ -56,19 +71,19 @@ If you encounter any front-end challenges, I welcome the opportunity to engage i
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%207%20mins-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 253 Contributions in the Year 2024
- > 
-> 📦 269.6 kB Used in GitHub's Storage 
- > 
+>
+> 📦 269.6 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 21 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning    89 commits     █████░░░░░░░░░░░░░░░░░░░░   22.31% 
@@ -77,7 +92,8 @@ If you encounter any front-end challenges, I welcome the opportunity to engage i
 🌙 Night      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29%
 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
 Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
@@ -90,8 +106,7 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -111,7 +126,7 @@ Mac                      6 hrs 33 mins       ███████████�
 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
 TypeScript               9 repos             ███████████░░░░░░░░░░░░░░   47.37% 
@@ -121,9 +136,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 ```
 
-
-
- Last Updated on 20/02/2024
+Last Updated on 20/02/2024
 <!--END_SECTION:waka-->
 </details>
 
@@ -140,10 +153,10 @@ Python                   1 repo              █░░░░░░░░░░�
 
 <h3>💻 GitHub Profile Stats</h3>
 <a href="https://github.com/SmallTeddy">
-  <img alt="SmallTeddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SmallTeddy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="SmallTeddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SmallTeddy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
 <a href="https://github.com/SmallTeddy">
-  <img alt="SmallTeddy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SmallTeddy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+<img alt="SmallTeddy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SmallTeddy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </a>
 <br/>
 
@@ -156,7 +169,7 @@ Python                   1 repo              █░░░░░░░░░░�
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
     <img
@@ -165,7 +178,7 @@ Python                   1 repo              █░░░░░░░░░░�
     />
   </p>
 
-  <h3>💻 Software and Tools</h3>
+<h3>💻 Software and Tools</h3>
 
   <p>
     <img
