@@ -1,14 +1,14 @@
 <!-- Hello Typing Text -->
 <p align="center">
     <img
-        alt="Hello Typing Text"
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hello+I'm+SmallTeddy.I'm+glad+I+met+you+here!"
+        alt="Hello I'm SmallTeddy. I'm glad to meet you here!"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hello+I'm+SmallTeddy.+I'm+glad+to+meet+you+here!"
     />
 </p>
 
 <!-- Introduction -->
 <p style="font-size: 14px;font-family: monospace;">
-As a front-end developer deeply passionate about the Vue framework, I have dedicated the past five years to refining my skills in this domain. Currently, I am immersed in delving into the source code of Vue and its associated ecosystem.
+As a front-end developer deeply passionate about the Vue framework, I have dedicated the past six years to refining my skills in this domain. Currently, I am immersed in delving into the source code of Vue and its associated ecosystem.
 
 My enthusiasm for open source projects is boundless, and I derive immense satisfaction from immersing myself in
 literature.
@@ -57,6 +57,12 @@ facilitate mutual progress.
     <a href="https://github.com/SmallTeddy/music-explorer-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=music-explorer-web&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddy/dual-colored-ball"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=dual-colored-ball&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/wh131462/leetcode-practice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=leetcode-practice&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<h3>🧩 Browser Plugin</h3>
+<p>
+    <a href="https://github.com/SmallTeddy/emoj-all"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=emoj-all
+&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddy/labor-law"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=labor-law&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/984507092/platform-link"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=984507092&repo=platform-link&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 [//]: # (    <a href="https://github.com/SmallTeddyTools/copyjs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=copyjs&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>)
 </p>
