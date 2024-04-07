@@ -59,8 +59,7 @@ facilitate mutual progress.
     <a href="https://github.com/wh131462/leetcode-practice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=leetcode-practice&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <h3>🧩 Browser Plugin</h3>
 <p>
-    <a href="https://github.com/SmallTeddy/emoj-all"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=emoj-all
-&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddy/emoj-all"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=emoj-all&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddy/labor-law"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=labor-law&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/984507092/platform-link"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=984507092&repo=platform-link&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
