@@ -47,7 +47,7 @@ facilitate mutual progress.
 <p>
     <a href="https://github.com/SmallTeddyTools/encryption"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=encryption&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddyTools/copy-js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddyTools&repo=copy-js&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/SmallTeddy/vue-files-preview"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=vue-files-preview&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/VueFilesPreview/vue-files-preview"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VueFilesPreview&repo=vue-files-preview&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 <h3>🧸 Personal Ecosystem</h3>
 <p>
