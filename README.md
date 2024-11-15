@@ -68,13 +68,13 @@ facilitate mutual progress.
     <a href="https://github.com/SmallTeddy/ProjectConstructionHub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=ProjectConstructionHub&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddy/car-number-input"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=car-number-input&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddy/music-explorer-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=music-explorer-web&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/SmallTeddy/dual-colored-ball"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=dual-colored-ball&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <h3>🐍 Python Ecosystem</h3>
 <p>
     <a href="https://github.com/SmallTeddy/video-resource"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=video-resource&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SmallTeddy/people-daily"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=people-daily&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SmallTeddy/dual-colored-ball"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&repo=dual-colored-ball&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <h3>🧩 Browser Plugin</h3>
