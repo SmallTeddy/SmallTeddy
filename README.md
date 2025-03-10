@@ -8,19 +8,17 @@
 
 <!-- Introduction -->
 <p style="font-size: 14px;font-family: monospace;">
-As a front-end developer deeply passionate about the Vue framework, I have dedicated the past six years to refining my skills in this domain. Currently, I am immersed in delving into the source code of Vue and its associated ecosystem.
+As a front-end developer with a deep passion for the Vue framework, I have spent the past six years honing my skills in this area. Currently, I am deeply immersed in exploring the source code of Vue and its surrounding ecosystem.
 
-My enthusiasm for open source projects is boundless, and I derive immense satisfaction from immersing myself in
-literature.
+My enthusiasm for open-source projects is boundless, and I derive immense satisfaction from delving into relevant literature.
 
-At present, I am engrossed in the development of captivating and enjoyable front-end games.
+At present, I am engaged in the development of captivating and enjoyable front-end games.
 
-Furthermore, I avidly frequent renowned technology blogs and actively contribute my own insightful articles.
+Moreover, I frequently visit renowned technology blogs and actively contribute my own insightful articles.
 
-The traffic to my personal blog has surpassed one million reading quantity.
+The traffic to my personal blog has surpassed one million views.
 
-If you encounter any front-end challenges, I welcome the opportunity to engage in collaborative discussions to
-facilitate mutual progress.
+If you encounter any front-end challenges, I welcome the opportunity to engage in collaborative discussions to facilitate mutual progress.
 </p>
 
 <!-- Snake Code Contribution Map -->
